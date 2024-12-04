@@ -1,0 +1,29 @@
+/* Importar Bootstrap */
+@import '~bootstrap/scss/bootstrap';
+
+/* Estilos personalizados */
+.error-snackbar {
+  background: #f44336;
+  color: white;
+}
+
+.success-snackbar {
+  background: #4caf50;
+  color: white;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.table-container {
+  margin: 20px;
+  overflow-x: auto;
+}
+
+.action-buttons {
+  gap: 8px;
+  display: flex;
+} 

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "1234",
+      "role": "admin"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "email": "juan@ejemplo.com",
+      "grade": "10°"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "María González",
+      "email": "maria@ejemplo.com",
+      "subject": "Matemáticas"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Reunión de profesores",
+      "date": "2024-03-20",
+      "description": "Reunión mensual"
+    }
+  ]
+} 
